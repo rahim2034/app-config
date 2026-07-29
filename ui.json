@@ -1,0 +1,21 @@
+{
+  "app": {
+    "background": "#0F172A",
+    "welcome": "Welcome",
+    "textColor": "#FFFFFF"
+  },
+  "buttons": [
+    {
+      "id": "btn_google",
+      "text": "Google",
+      "color": "#2563EB",
+      "visible": true
+    },
+    {
+      "id": "btn_facebook",
+      "text": "facebook",
+      "color": "#DC2626",
+      "visible": true
+    }
+  ]
+}
