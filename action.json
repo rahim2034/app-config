@@ -1,0 +1,14 @@
+{
+  "actions": [
+    {
+      "id": "btn_google",
+      "type": "url",
+      "value": "https://accounts.google.com/signup"
+    },
+    {
+      "id": "btn_facebook",
+      "type": "url",
+      "value": "https://www.facebook.com"
+    }
+  ]
+}
